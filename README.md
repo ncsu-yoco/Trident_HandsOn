@@ -6,5 +6,5 @@
 * project/RealTimeElasticSearchTopology.java requires running instance of elastic search.
 * Codes can be executed by following command
 ```
-	storm jar target/storm-starter-<version>-jar-with-dependencies.jar [path_to_class_file] <parameters> 
+storm jar target/storm-starter-<version>-jar-with-dependencies.jar [path_to_class_file] <parameters> 
 ```
